@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## Reproducible Research: A Talk on How to Do the Same Thing More Than Once
+## Reproducible Research: A Talk on How to Do the Same Thing More Than Once !
 
 Computational reproducibility is the ability to obtain identical results
 from the same data with the same computer code. The high rate of
